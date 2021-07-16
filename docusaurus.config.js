@@ -29,7 +29,7 @@ module.exports = {
           label: "Memo",
         },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/hir0o/memo",
           label: "GitHub",
           position: "right",
         },
