@@ -24,11 +24,10 @@ module.exports = {
       items: [
         {
           type: "doc",
-          docId: "intro",
+          docId: "top",
           position: "left",
-          label: "Tutorial",
+          label: "Memo",
         },
-        { to: "/blog", label: "Blog", position: "left" },
         {
           href: "https://github.com/facebook/docusaurus",
           label: "GitHub",
@@ -38,7 +37,7 @@ module.exports = {
     },
     footer: {
       style: "dark",
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} hir0o`,
     },
     prism: {
       theme: lightCodeTheme,

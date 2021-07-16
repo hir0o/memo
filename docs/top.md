@@ -1,6 +1,10 @@
 ---
 sidebar_position: 1
+id: top
+slug: /
 ---
+
+## Lorem ipsum
 
 # Tutorial Intro
 
