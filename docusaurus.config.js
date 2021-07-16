@@ -1,7 +1,7 @@
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
-const siteTitle = "mkmk4423のメモ";
+const siteTitle = "hir0o`s memo";
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
