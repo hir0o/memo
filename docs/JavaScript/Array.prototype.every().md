@@ -1,0 +1,3 @@
+配列の全ての要素がテストに合格するか。booleanを返す
+
+tag:slUyhL7xs
